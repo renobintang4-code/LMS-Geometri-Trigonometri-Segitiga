@@ -1,0 +1,6 @@
+{
+  "name": "TRIANGLE LAB - Explore the Angle, Discover the Area",
+  "description": "LMS Matematika Interaktif Fase E: Hubungan Sudut dan Luas Segitiga dengan Trigonometri, Simulasi Geometri Dinamis, Discovery Learning, dan LKPD Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
